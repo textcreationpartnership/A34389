@@ -1,0 +1,744 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conversion exemplified in the instance of a gracious gentlewoman now in glory / written from her own mouth and appointment, by her dearest friend ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34389</idno>
+            <idno type="STC">Wing C5981</idno>
+            <idno type="STC">ESTC R21188</idno>
+            <idno type="EEBO-CITATION">12681206</idno>
+            <idno type="OCLC">ocm 12681206</idno>
+            <idno type="VID">65666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34389)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65666)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 978:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Conversion exemplified in the instance of a gracious gentlewoman now in glory / written from her own mouth and appointment, by her dearest friend ...</title>
+               </titleStmt>
+               <extent>[20], 5-61 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conversion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65666:1" rendition="simple:additions"/>
+            <pb facs="tcp:65666:1"/>
+            <p>CONVERSION EXEMPLIFIED; In the Inſtance of a Gracious Gentlewoman Now in Glory.</p>
+            <p>Wr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tten from her own mouth and Appointment, by her deareſt Friend: And Publiſhed, in pur<g ref="char:EOLhyphen"/>ſuance of her deſires, for com<g ref="char:EOLhyphen"/>mon benefit, but eſpecially for her near Relations in the fleſh.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1669.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:65666:2"/>
+            <pb facs="tcp:65666:2"/>
+            <head>AN EPISTLE TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>THe following Hiſtory contains a</hi> Natrative <hi>of the</hi> Work of Converſion <hi>upon a</hi> Gentle<g ref="char:EOLhyphen"/>woman, <hi>why now enjoyes the harveſt of that ſeed time, in Glory. At the day of Judgment ſhe will come a<g ref="char:EOLhyphen"/>gain br<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nging her ſheaves with her, having (as you may here read) ſown in tears. The unuſual way of her tran<g ref="char:EOLhyphen"/>ſlation out of the power of Satan into the Kingdom of Chriſt, impreſt ſo deep upon her heart ſo oft as ſhe reflected on it, as (though her conſcience was ſprinkled with the blood of the Cove<g ref="char:EOLhyphen"/>nant,
+<pb facs="tcp:65666:3"/> yet) ſhe could not quietly think on dying, till ſhe had cauſed as much as (in ſo languiſhing an eſtate as ſhe was in) ſhe could call to mind, to be written down, that by the publiſhing of it, God might be glorified, and ſouls by her example receive ſome guidance, comfort and eſtabliſhment. The greateſt diſcouragement ſhe herein met with, was from a ſecret ſtirring of vain oſtentation, which ſhe was ſo great an enemy to, as ſhe ſometime thought it were better not let theſe things be known, than to encline to ſeek her own name in them. But ſhe then conſidered, that if a Chriſtian ſhould omit ſervice, till he be perfectly free from ſinful ſelf<g ref="char:EOLhyphen"/>ſeeking, no duty ſhould be done on this ſide Heaven. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herefore ſhe proceeded in her purpoſe, only deſiring that her name ſhould not be printed with it. It would fill a bigger book, than this (which ſhe directed to be written) to give the Grace of Chriſt in her its full due: But my deſign is brevity; to</hi>
+               <pb facs="tcp:65666:3"/> 
+               <hi>which yet I am not under ſo ſtrict an Obligation, as to make me wholly ſilent, while I have a duty to diſcharge to a Saint, whoſe Faith, though ſhe be dead, ſpeaketh ſo exceeding loud. Permit me then to write her Character truly, and ſhortly.</hi>
+            </p>
+            <p>
+               <hi>In freedom from guile ſhe was, as if ſhe had been twin-ſiſter to</hi> Natha<g ref="char:EOLhyphen"/>niel, <hi>and ſole-daughter and heretrix to plain-hearted</hi> Jacob. <hi>Love to Chriſt and his Members burnt ſo hot in her (in this frigid age wherein all ſeek their own) as it drank up her ra<g ref="char:EOLhyphen"/>dical moiſture in a degree to the ſhort<g ref="char:EOLhyphen"/>ning of her life. She did bear the ſuffe<g ref="char:EOLhyphen"/>ring of enemies very uneaſily, but the wants of friends and relations (eſpe<g ref="char:EOLhyphen"/>cially if they were in Chriſt) mingled her pleaſant things with gall and wormwood. Except in a very few in<g ref="char:EOLhyphen"/>ſtances, I never knew ſuch a Wife, ſuch a Child, ſuch a Siſter, ſuch a Mo<g ref="char:EOLhyphen"/>ther-in-law, ſuch a Friend for reality and ardency of love. 'Tis prodigious</hi>
+               <pb facs="tcp:65666:4"/> 
+               <hi>to this luke-warm age to loſe ſuch a pat<g ref="char:EOLhyphen"/>tern in the prime of her dayes Such was herſelf denial, humility, and con<g ref="char:EOLhyphen"/>ſtant ſence of ſin, as ſeldom did any ſound come from her lips, in which ſhe did not complain of, and condemn her ſelf: and in private it was her conſtant practice.</hi> Never ſuch a ſin<g ref="char:EOLhyphen"/>ner pardoned and ſaved, <hi>was her daily cry.</hi>
+            </p>
+            <p>
+               <hi>In the deſcription of natural and moral Excellencies, I have ſeen Vo<g ref="char:EOLhyphen"/>lumes written of Subjects much infe<g ref="char:EOLhyphen"/>riour; I ſhall ſatisfie my ſelf in ſaying only, That in her I have ſeen an end of thoſe Perfections.</hi>
+            </p>
+            <p>
+               <hi>The heart and bowels are of great uſe in Nature, being both architectonical paris, and the ſeat of affections. They were in her of ſo tender a compoſition, as the fall of her earthly tabernacle at them commenced; being deeply woun<g ref="char:EOLhyphen"/>ded at the calamities of Sufferers, who ſometimes on one ſide, ſometimes on another, this divided Kingdom hath</hi>
+               <pb facs="tcp:65666:4"/> 
+               <hi>expoſed to that condition. Without repentance I am aſſured God will have an account of her blood of many in<g ref="char:EOLhyphen"/>ſtruments of cruelty, who little think they had any hand in it: ſins of igno<g ref="char:EOLhyphen"/>rance being in their nature no more venial than thoſe againſt knowledge, though they are leſs heinous.</hi>
+            </p>
+            <p>
+               <hi>Her eyes were wholly deprived of their beloved reſt from</hi> Friday <hi>night till</hi> Tueſday <hi>afternoon, when death cloſed them, ſo far as thoſe about her could diſcern. Much about two compleat dayes and nights ſhe wreſtled under more immediate gripes of death: and it was, that what God had in ſo great plenty given her, might have its due exerciſe for his glory. It was indeed a time of ſharp tryal, but not the leaſt prevailing againſt her faith and pati<g ref="char:EOLhyphen"/>ence. Her ſaying was,</hi> My pain is great, but God is good ſtill. He re<g ref="char:EOLhyphen"/>ſtrains Satan from troubling me in the leaſt. I feel no raviſhing joy, but I have ſetled peace in believing.
+<pb facs="tcp:65666:5"/> I was wont to be troubled at the conſideration of the putr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>faction of my body in the grave, that it muſt be ſeparated from the ſociety of men, and be wrapt up in dark<g ref="char:EOLhyphen"/>neſs, but I am now beyond all thoſe things, and long to be at reſt.</p>
+            <p>
+               <hi>In words to this purpoſe ſhe oft ex<g ref="char:EOLhyphen"/>preſt her mind. Once ſhe ſaid</hi> It is hard work to be under the Arreſt of Death, as I am, with all my ſences in their free exerciſe. <hi>She oft expreſſed fear of being held long under thoſe pains; yet with child like ſubmiſſion, like that of Chriſt when he prayed,</hi> that the Cup might paſs from him, <hi>which he was drinking. And they were both heard in the thing they fea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed; for the Cup paſſed from Chriſt ſo ſoon as his prayer was ended: and her patience was protracted, till Death had ſet her free.</hi>
+            </p>
+            <p>
+               <hi>On the Monday morning before ſhe dyed, a worthy Friend of</hi> 
+               <note place="margin">
+                  <hi>Mr.</hi> Caryl.</note> 
+               <hi>hers, and choice Miniſter of the Goſpel, came to ſee</hi>
+               <pb facs="tcp:65666:5"/> 
+               <hi>her, and ſpake to her of the Glory ſhe was going into, and the way God had led her in unto it, and prayed with her. When he had taken his leave, ſhe told me, ſhe perceived he was ſent of God to ſcatter ſome Clouds that were gather<g ref="char:EOLhyphen"/>ing about her, when he came in, but his gracious Words had chaſed away that darkneſs. During the ſeven years wherein I enjoyed her, ſhe would very frequently iſſue forth in diſcourſe of Eternity, and often would ſay,</hi> What ſhall I do when I come to lanch in<g ref="char:EOLhyphen"/>to that Ocean? <hi>The frequent con<g ref="char:EOLhyphen"/>templation of it made it eaſie to her at laſt; for when her time came to change her ſtation ſhe did it with ſuch chear<g ref="char:EOLhyphen"/>fulneſs that her dear Friends and Ac<g ref="char:EOLhyphen"/>quaintance ſeeing her, had their ſorrow for parting with it ballanced with Joy. So deep was the ſence ſhe had of the ſtate of ſouls departed, in regard of the unchangeableneſs of their condition, as I have known her ſhed plenty of tears for ſome, whoſe lives gave little hopes,</hi>
+               <pb facs="tcp:65666:6"/> 
+               <hi>though ſhe had no relation to them. None needed other attractive of her love, than to walk with God, and en<g ref="char:EOLhyphen"/>deavour to reſcue ſouls from Satan. She loved Children exceedingly, and could not bear their hard uſage, and would frequently ſay,</hi> ſhe hated the name of a Mother-in-law, <hi>and could not en<g ref="char:EOLhyphen"/>dure to think her ſelf in that relation, becauſe it was generally the occaſion of ſo much cruelty and wrong. When ſhe met with any poor child, whoſe counte<g ref="char:EOLhyphen"/>nance and habit declared his conditi<g ref="char:EOLhyphen"/>on hard;</hi> Look on that poor child, <hi>ſaid ſhe,</hi> I fear it hath a Mother-in-law. <hi>She delighted much to talk with young ones, and was very aſſiduous to take occaſion to open their damnable ſlate by nature to them, and the reme<g ref="char:EOLhyphen"/>dy provided, which ſhe alwayes did in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> an affectionate manner, as I did judge her the beſt accompliſhed to ſpeak to ſuch hearers of any that ever I did hear preach. Nor let this part of her worth be looked upon with an un<g ref="char:EOLhyphen"/>dervaluing
+<pb facs="tcp:65666:6"/> eye: For if (among other ſubjects) the Kingdom of Heaven con<g ref="char:EOLhyphen"/>ſiſt of</hi> little ones, <hi>then thoſe that ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w them the way to it, will doubtleſs ſhine like Stars for ever and ever.</hi>
+            </p>
+            <p>
+               <hi>I was much more benefited by her example in the praclick part of Chriſti<g ref="char:EOLhyphen"/>anity (and therein the true value and dignity of it conſiſts) than I was able to requite in contributing to her know<g ref="char:EOLhyphen"/>ledge in the Theory of it, of which be<g ref="char:EOLhyphen"/>nefit notwithſtanding ſhe made menti<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, frequently acknowledging Goa's mercy to her in it.</hi>
+            </p>
+            <p>
+               <hi>If it be ſaid by ſome (and I make no queſtion it will be, or at leaſt thought; for the ſinful mind of man will ſuggeſt any thing, to ſecure it ſelf from Convi<g ref="char:EOLhyphen"/>ction of being in a carnal, periſhing, damnable ſtate, all the time it is ſo) the Devil was once very ſtrong in this Wo<g ref="char:EOLhyphen"/>man, he tempted her to great ſins, and brought her almoſt to deſpair. I thank God Almighty, he never had ſo much power over me; I have <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver been of good</hi>
+               <pb facs="tcp:65666:7"/> 
+               <hi>hope; if you call this Converſion, keep it to your ſelf, and much good may it do you: but God bleſs me, and every good body from ſuch a Condition.</hi>
+            </p>
+            <p>
+               <hi>To this I ſay in general, that I have not ſuch ſtore of words, as out of them I can pick and chuſe ſome to give this Objector his due, he being the ſpawn, and extract of folly and ſelf-confidence. But that this which he contemns, is Converſion, is notoriouſly known to all the Children of Wiſdom; and it is a ſtate wherein every one that's not found before Death removes his habitation, will undoubtedly periſh. I ſhall cer<g ref="char:EOLhyphen"/>tainly meet with him who agrees not with me herein, at a place, where he will be of my mind.</hi>
+            </p>
+            <p>
+               <hi>The Devil never was ſo ſtrong with me, (ſaith he) as to lead me into ſuch diſtreſs.</hi>
+            </p>
+            <p>
+               <hi>And how make you that appear? you ſnore out the evidence of it in your A<g ref="char:EOLhyphen"/>poplectick fit: you are well becauſe you feel not your ſickneſs, and whole becauſe,</hi>
+               <pb facs="tcp:65666:7"/> 
+               <hi>your wound throbs not. A dead man may ſo argue, you never knew the Devils terrifying rage: that's becauſe you are under his reign. Princes le<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y not War againſt Subjects that pay them due alle<g ref="char:EOLhyphen"/>giance; nor doth th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Maſter of the houſe muſter up his powers ſo <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or gas none attempt to diſpoſſeſs him. The Keeper of a priſon is quiet while his Priſoners are ſo, but if he peeps in at a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>revice, or by liſtening, perceives them tinker<g ref="char:EOLhyphen"/>ing with their Fetters, or making the leaſt proviſion for an eſcape, he doubles his Guards, and encreaſes their weight of Iron. Nay, to deſcend from Men to the behaviour of Beaſts, ask</hi> Job <hi>and he will tell thee,</hi> Job 6. 5. <hi>that the wild Aſs doth not bray when he hath graſs enough, nor the Oxe low over his fod<g ref="char:EOLunhyphen"/>der. Ignorance, in which thou art held, is a Chain long enough to take in the links of every luſt. Yet cryeſt thou, the Devil hath not ſuch power over me. Know wretched man, that the reign of ſin makes a man ſervant to it: and un<g ref="char:EOLhyphen"/>known,
+<pb facs="tcp:65666:8"/> undiſcovered luſts ſit at moſt eaſe in their <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hrone, meeting with moſt undiſturb<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d obedience from their ſub<g ref="char:EOLhyphen"/>jects, as having no reſiſtance, ſo much as from a natural Conſcience (which is the ſole Officer ſet up in a natural man to hinder him from all manner of extravagancy, and brutiſh madneſs. Therefore the blindneſs of ſuch a Beaſt as thou art, leading thee to the Precipice of Hell, makes every ſeeing perſon tremble, as thou thy ſelf doſt when thou ſeeſt a man that hath no eyes walking about the brink of a Well, or Coalpit. Some without pumping pour out buckets of <g ref="char:V">Ʋ</g>ncleaneſs, Blaſphemies, and Execra<g ref="char:EOLhyphen"/>tions; wallow in the vomit of Drunken<g ref="char:EOLhyphen"/>neſs, and multiply Bribery, Injuſtice, Op<g ref="char:EOLhyphen"/>preſſion, and all kind of Cruelty, and the burthen of the Song muſt ſtill be,</hi> [The Devil is not ſo ſtrong in me.] <hi>Well may thoſe think ſo then, who have eſcaped the pollutions of the world in ſuch luſts. But what ſtrength will theſe men allow the Devil to have in them,</hi>
+               <pb facs="tcp:65666:8"/> 
+               <hi>before they admit him to have any at all? whereas in truth the chain of an unſanctified eſtate ſecures the Devils poſſeſſion in all who are held in it. All the Priſoners in</hi> Newgate <hi>are not there for Treaſon, or Murther, yet they may be in for that, that will as cer<g ref="char:EOLhyphen"/>tainly ſend them to</hi> Tyburn.</p>
+            <p>
+               <hi>But ſtill you urge, What make you of us? We have peace, and you that call your ſelves the People of God have no more: we worſhip God as well as you; and what would you have us do?</hi>
+            </p>
+            <p>
+               <hi>It is true, you have peace; and the People of God have no more, it may be not ſo much. The fault I find is with the Nature of your Peace. Theirs and yours too, is a Peace that paſſeth all underſtanding, but in very different ſenſes.</hi> For what peace to the wick<g ref="char:EOLhyphen"/>ed, ſaith my God?</p>
+            <p>
+               <hi>You worſhip God as well as they: not ſo well (Friend) though as much; for yours is ſuperſtitious, formal, fleſhly Worſhip, tendered to a deity created in</hi>
+               <pb facs="tcp:65666:9"/> 
+               <hi>your own fancy: theirs the Oblations of ſpiritual inſtituted Worſhip to the God that made Heaven and Earth, and the wide Sea.</hi>
+            </p>
+            <p>
+               <hi>Things ſtanding thus, ask your ſelves how it will fare with you when you muſt exchange your well-adorned Galleries, for the dark and cloudy Walks of tem<g ref="char:EOLhyphen"/>poral and eternal Death: Your plea<g ref="char:EOLhyphen"/>ſant bathing Tubs for Rivers of bur<g ref="char:EOLhyphen"/>ning P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tch; when thoſe Veins and Arteries of your Bodies, wherein heal<g ref="char:EOLhyphen"/>thy blood, and lively ſpirits ride cir<g ref="char:EOLhyphen"/>cuit, ſhall be filld with Fire and Brim<g ref="char:EOLhyphen"/>ſtone; and this ſtate to endure for ever. I fear <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen you will find the Devil ſtrong in you, and that a good conditi<g ref="char:EOLhyphen"/>on, that you pray God to deliver you, and every good body from. Give me leave in the mean while to advance my Pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yer againſt yours, that God would bring every loſt Soul into the ſaving ſence of its loſtneſs: and that theſe darts might fall into your Conſciences, and remain in the wound till they</hi>
+               <pb facs="tcp:65666:9"/> 
+               <hi>be drawn out by the hand of the Spirit, and healed by the Blood of the Croſs. And let thoſe read here the great Works of God (and be comforted, ſtreng<g ref="char:EOLhyphen"/>thened and eſtabliſhed) whoſe eternal happineſs (in the deſpiſed way of grace) is ſecured, aſſuring themſelves, that he that hath begun a good work in them, will perfect it: in no wiſe caſting them away that come to him, or failing to ſave to the utmoſt all that come to God by him. It is true, the gate is ſtrait, and the way narrow that leadeth to Life, not ſo much in it ſelf, but from blind ſinful man, who chooſes any of the broad wayes that ſin preſents before it. The difficulties that this holy Woman found in it, ſhe hath here de<g ref="char:EOLhyphen"/>clared, and directed to be made publick, partly to bear her Teſtimony againſt thoſe who think otherwiſe. She was careful that it might be in terms that ſhould give no juſt offence, fearing to offend the</hi> Jew, <hi>or</hi> Greek, <hi>or</hi> Church
+<pb facs="tcp:65666:10"/> of Chriſt, <hi>and endeavouring, ſo much as ſhe could without ſin,</hi> to comply with all, that ſhe might gain ſome: <hi>to which end, though ſhe wrote it not with her own hand (as being too infirm for ſuch a work, yet having dictated it, ſhe oft examned it, and cauſed ſome alterations te be made in it, after they were wrote: ſo that a Will wrote by a Lawyer or Ser. vener, is no leſs truly the Teſtators than this was hers.</hi>
+            </p>
+            <p>
+               <hi>Before I end this</hi> Preface, <hi>give me leave to inform you into what fam<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>li<g ref="char:EOLhyphen"/>arity ſhe was groan with Death, ſome months before ſhe met with it. It is called in Scripture, the</hi> King of Ter<g ref="char:EOLhyphen"/>rors, <hi>and not<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riouſly known to have amazed the b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldeſt Conſtitutions; yea, and thoſe ſom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>times who have attained to good meaſures in grace. But God, to ſhew his Soveraignty, bound this</hi> Le<g ref="char:EOLhyphen"/>viathan <hi>for his Handmaid to play with, and made it her ſervant, inſomuch as ſhe called it</hi> her Fathers man ſent to
+<pb facs="tcp:65666:10"/> fetch her from School: <hi>And upon a time, about two wonths before ſhe dyed, ſitting with her, ſhe fell into this diſ<g ref="char:EOLhyphen"/>courſe with me:</hi> My dear <hi>(ſaid ſhe)</hi> I ſhall be in Heaven this Winter. I pray take care of this poor body of mine when I am dead; for Death cannot ſeparate it from Chriſt; and therefore ſee that it be uſed come<g ref="char:EOLhyphen"/>ly. Let me beg you to cloſe mine eyes your ſelf, and let not fooliſh paſſion keep you from rejoycing at my happineſs in that hour. Let my chin be kept from falling, by pin<g ref="char:EOLhyphen"/>ning the ends of my pinner under it; and when it is ſtiff with cold, then leave them looſe, but put on no mufler. When I am put in my Coffin, raiſe my head with a ſmall pillow, and turn it to one ſide, that it may reſemble ſleep, and as little of ghaſtlineſs appear in it as may be. Were it your lot to depart be<g ref="char:EOLhyphen"/>fore me, I would do the like for
+<pb facs="tcp:65666:11"/> you and more; not out of hardneſs of heart, but intire love. <hi>As incon<g ref="char:EOLhyphen"/>ſiderable as this may ſeem, I know not why it ſhould not be here recorded, as well as</hi> Joſeph's <hi>charge to his Brethren concer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing his bones in the Scripture, being an act of Faith as his was. Being not like ever to meet with ſuch a ſub<g ref="char:EOLhyphen"/>ject whilſt I live, I would willingly make this Entry larger; but mine heart ſo much affects mine eyes, that I cannot ſee to hold open the door any longer.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:65666:11"/>
+            <head>CONVERSION Exemplified.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Birth being in a Family which (according to the va<g ref="char:EOLhyphen"/>lue put upon things o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that nature) is able to make as large a demonſtration of An<g ref="char:EOLhyphen"/>tiquity, from honourable Anceſtors, as the generality of that rank of Perſons can do; I had withall, the Bleſſing of that Education in it, which might free me from being a diſhonour to it, being bred in the beſt and moſt ingenious wayes, that that place, and the diſtraction of the times, by reaſon of civil Wars (which began in my Child<g ref="char:EOLhyphen"/>hood, and continued till my grown Age) could afford.</p>
+            <p>It was (to the beſt of my remembrance) about the tenth year of my age, when God (who is rich in mercy) began to declare a deſign upon me, locked up in the ſecret of
+<pb n="6" facs="tcp:65666:12"/> his Counſels before the foundations of the World were laid, of bringing me to the knowledge of himſelf in the face of Jeſus Chriſt; to whom though I was born an E<g ref="char:EOLhyphen"/>nemy, and of whoſe Natures, Perſons, Offi<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Ordinances I was ſtupidly igno<g ref="char:EOLhyphen"/>rant, yet by the work of his own Spirit, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctual teaching<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of it, I became ſo well acquainted with thoſe great Myſte<g ref="char:EOLhyphen"/>res in the true ſubſtance of them, and that without the ordinary help of mans teaching (of which that place was want<g ref="char:EOLhyphen"/>ing) as I was thereby in the infancy of my life enabled to receive the ſatisfaction of a Mediator, to the juſtification of my per<g ref="char:EOLhyphen"/>ſon, and the Spirit of the ſame Mediator for the ſanctification of my nature, and that ſome years before I underſtood them in their diſtinct and proper terms. Upon this ſo choice and ſignal Love, I cannot think at any time ſeriouſly, without waſhing the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eet of him with Tears, who loved me, and waſhed me in his own Blood: To him be Glory for ever.</p>
+            <p>The method which the holy Ghoſt uſed in bringing me to God through Chriſt, was that which he obſerves in the ordinary ex<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uti<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of his work, as I have ſince been informed by Teachers of the Goſpel, and
+<pb n="7" facs="tcp:65666:12"/> experienced Chriſtians, with whom then I had not the like acquaintance; and it was firſt by convincing me of ſin, and then of righteouſneſs, the manner thu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Satan mingled his t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mptation with a childiſh diſ<g ref="char:EOLhyphen"/>poſition of waggery in me, and ſtirred me up to hurt one of my Brothers in his ſl<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p, out of no reaſon, but an inclination to do harm. God (who wants not means to break the Serpents head) took accaſion from hence to preſent me with the view of my nature, how vile it was, that it ſhould be acting in me to provoke me to hurt an innocent Babe in his ſleep, yea, a Brother, who was as dear to me as mine own life.</p>
+            <p>A window being thus opened, plenty of Light ſhed it ſelf in, whereby I was diſ<g ref="char:EOLhyphen"/>covered to my ſelf, and that diſcovery was attended with ſo much terrour, and ſence of eternal wrath from God, due to me, a guilty ſinner, as the Bed I then lay upon afforded me no eaſe; from which I aroſe in the dark and ſilent night, to lam<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my ſelf and woſul ſtate: It was a dread<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul time, never to be forgotten of me.</p>
+            <p>Satan finding himſelf under ſo unexpe<g ref="char:EOLhyphen"/>cted a defeat, purſued his work to coun<g ref="char:EOLhyphen"/>termine the work of God thus begun in
+<pb n="8" facs="tcp:65666:13"/> me: and in order thereunto beſpread my troubled ſoul with plenty of fiery Darts. The firſt that he preſt me to, was Murther, and that of my near Relations; this by the aſſiſtance of God, I ſoon caſt out, being convinced how impious, abominable and unnatural it was to deſtroy my beſt Friends. Then he urged me to make away my ſelf as a Reproba<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e without hope: but this I looked atas more unnatural than the other. Nature (as polluted as it was) ſtood ama<g ref="char:EOLhyphen"/>zed, and ex<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rciſed great reluctancy againſt theſe b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oody Temptations.</p>
+            <p>Nevertheleſs, perplex'd I was in a dread<g ref="char:EOLhyphen"/>ful meaſure, and knew not what to do: Goſpel I was ignorant of, though I had read it often; for the vaile was over my heart, and the Scriptures were to me a Book claſped up, having neither from Sermons or Conferences ever received help or light, whereby ſp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ritually to underſtand them; without which they are but a dead and deadly letter.</p>
+            <p>To communicate my condition to any, I judged it moſt unadviſed; becauſe I knew none that underſtood it. For, for thoſe of my acquainiance who I did think knew moſt of the way to Heaven, I had always obſerved, that they counted wounds
+<pb n="9" facs="tcp:65666:13"/> of conſcience for ſin, melancholy ſits. And if the wound were deeper and more ſmar<g ref="char:EOLhyphen"/>ting than ordinary, then they eſteemed them maddiſh upon whom it was, and that it befel them for being guilty of ſome ſoul ſecret ſin, worſe than themſelves had ever committed. And I did fear if they knew my caſe, they would think no bet<g ref="char:EOLhyphen"/>ter on't. In which reſpect I was very care<g ref="char:EOLhyphen"/>ful to hide it from them.</p>
+            <p>Being at this ſet, I turned aſide from my black thoughts, and ſaid to my heart, (as <hi>Solomon</hi> in another caſe) <hi>Goto, I will try thee with mirth.</hi> I ſought diverſion in merry company, and would thereby have abated the rage of my guilty conſcience, as <hi>Cain</hi> ſought to do by building of Cities.</p>
+            <p>This remedy encreaſed the diſeaſe, for it multiplied ſin in me, and God thereupon multiplied my ſorrows.</p>
+            <p>The Way being by his Providence thus hedged up with thorns about me, I knew not how to get out. This path at length he diſcovered to me, that if I would ever be at peace I muſt get my ſin pardoned, in regard that it was moſt evident that all my anguiſh and torment proceeded from the guilt of unpardoned ſin.
+<pb n="10" facs="tcp:65666:14"/> This I forthwith cloſed with, being un<g ref="char:EOLhyphen"/>der clear conviction of the truth of it. Then thought I, If I would have my ſins pardoned, and get God to be my friend, I muſt ſerve him better than I have done yet. Here I fell moſt int<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntly upon ſeek<g ref="char:EOLhyphen"/>ing Righteouſneſs by the works of the Law. I read the <hi>Bible</hi> and the <hi>Practice of Piety,</hi> and ſuch other Books as I could get, that treated of a godly and devout converſation. I ſet upon private P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayer, and, as a help to it, g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Prayer-books which I did uſe, having been ſo ignorant<g ref="char:EOLhyphen"/>ly educated as to know no better.</p>
+            <p>From theſe written Prayers I cannot ſay I found not any help, but very little I am ſure, they being too dull and lazy a way to quicken a poor ſoul that was gaſ<g ref="char:EOLhyphen"/>ping for life. When Children are very young they will ſwallow meat of the Nurſes chewing, but when th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y are grown and have teeth, they uſe them, and loath that which is prepared by others. Thus it was with me in this caſe, having then no prejudice begotten in me againſt them, by converſing with thoſe that were formerly called <hi>Puritans, Sectaries, Schiſmaticks,</hi> and now called <hi>Phanaticks,</hi> of which ſort of People I then knew not any, nor had
+<pb n="11" facs="tcp:65666:14"/> read their Books. But I do diſcharge my conſcience upon my dying-bed, in decla<g ref="char:EOLhyphen"/>ring my experience for the information of ſuch as need it: praying earneſtly, that the Teſtimony of a poor conſumed dying creature, might prevaile with thoſe, to whom the knowledge hereof ſhall come, who think it worſhip enough to reade over a Prayer certain times in a day, to diſtruſt their condition before it is paſt cure. I have nor parts; and if I had, I would not here imploy them to diſpute the point of ſtinted forms of Prayer, invented by ſome for the uſe of others. Only this I did ex<g ref="char:EOLhyphen"/>perience, that the immediate ſighs, groans and longing deſires of my heart, ſome<g ref="char:EOLhyphen"/>times exp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt without words, ſometime in ſuch words as occurred to my memory, were graciouſly anſwered, and conſequent<g ref="char:EOLhyphen"/>ly accepted of God; and conſequently to that wrought by his Spirit, whoſe office is to be an Advocate in us, as Chriſt is for us, let the blind carnal world think and ſpeak what they pleaſe to the contraty. My wants were ſuch, as I found no printed Prayer that took notice of them: and whether thoſe Form-makers ever knew them or no, I will not judge: but if the Form-uſers were as hard followed as I
+<pb n="12" facs="tcp:65666:15"/> was, I believe they would caſt away their crutches, and ſcramble forward with their own legs: I think their diſtreſs would not allow them time to look for a book. A Priſoner condemned at the Bar begs for his Life, without the help of a Petition written; and ſuch was my caſe.</p>
+            <p>But to return from this digreſſion to the relation of the ſtate I ſtood in at this time. It was, as I ſaid a little before, a ſtate of righteouſneſs by perſonal obedience; for I was them <hi>of the works of the Law,</hi> as the Apoſtle's phraſe is, <hi>Gal.</hi> 3. 10. I ſay, of the works of the Law, as of a trade in which I thought to earn eternal life, and conſe<g ref="char:EOLhyphen"/>quently I was under the curſe, becauſe it is written, <hi>Curſed is every one that continueth not in all things written in the book of the Law, to do them.</hi>
+            </p>
+            <p>It is nothing I can boaſt of, and very little I can ſay, as to what I did in this caſe, to render my ſelf well-pleaſing to God, and acceptable in his fight: but what I could I did in works of piety and charity. I thought moſt reverently of all perſons in whom I did diſeern a ſtrict and circumſpect converſation, or would at any time ſpeak of God or Holi<g ref="char:EOLhyphen"/>neſs with any zeal or affection. My indig<g ref="char:EOLhyphen"/>nation
+<pb n="13" facs="tcp:65666:15"/> being no leſs kindled againſt the contrary, eſpecially thoſe who were called the Clergy. What I then obſerved among ſome of that rank, was then, is ſtill, and for ever will be the abhorrency of my ſoul, but to mention it I am aſhamed. Unhap<g ref="char:EOLhyphen"/>py <hi>Englant,</hi> who art greatly infeſted with this generation. For, <hi>if Salt hath loſt its ſavour, wherewith ſhall it be ſeaſoned?</hi> and <hi>if the blind lead the blind, both muſt fall into the ditch.</hi>
+            </p>
+            <p>I was for ſome years toſſed in this Sea, where I found no calm, nor any bottom to caſt anehor in; having the knowledge of ſin, but not of grace. I judged my ſelf the worſt of ſinners, and oft wiſh'd I had never been born: increaſing my ſin by that wiſh. Walking ſometimes alone, when my fellows were in the pleaſure of their childiſh ſports, I thought them bleſſed in compariſon of my ſelf, as being not guilty of ſuch ſins as I was guilty of. By theſe ſteps did the work of deep humiliation and bitter mourning for ſin proceed in me. And to that precipice was I brought, that though God put under his hand ſecretly, and did ſupport me, yet in mine own thoughts I was oft at the brink of utter deſpaire. The dreadful conſideration of
+<pb n="14" facs="tcp:65666:16"/> appearing before the Judgement Seat of Chriſt came into my mind.</p>
+            <p>The firſt repreſentation I had of him, was, that to him was committed the Judg<g ref="char:EOLhyphen"/>ment of the great Day, and that he would exerciſe that Authority to my Condem<g ref="char:EOLhyphen"/>nation, unleſs I obtained mercy and fa<g ref="char:EOLhyphen"/>vour from him. Now notwithſtanding I had oft read the ſtory of Chriſts ſufferings, and wept in reading it, being greatly af<g ref="char:EOLhyphen"/>fected with it, and had a very high reve<g ref="char:EOLhyphen"/>rence about the Sacrament of his Supper, being inſtituted to preſerve the memorial of thoſe ſufferings: Yet now I perceive (and have done long) that thoſe were but humane paſſions working upon an object of great ſorrows, but no ſanctified affecti<g ref="char:EOLhyphen"/>ons, moved through a due ſence of the meritorious cauſe of Chriſt's paſſion, and conſequently altogether without any ſa<g ref="char:EOLhyphen"/>ving knowledge of him. Let ſuch as re<g ref="char:EOLhyphen"/>ſemble me in that frame of heart, know, that they deal with Chriſt, as Heathens do with their <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dol gods.</p>
+            <p>Now before I had this ſo near a diſco<g ref="char:EOLhyphen"/>very of Chriſt, all my care was to pleaſe God without his mediation: For I did think him at peace with me already, and that I had obtained his favour by my love
+<pb n="15" facs="tcp:65666:16"/> to him, expreſſing it ſelf in the manner before related.</p>
+            <p>This I have ſince much obſerved to be the caſe of poor ſenſleſs ſouls, never ef<g ref="char:EOLhyphen"/>fectually touch'd with the ſence of ſin; The title of a Chriſtian and the common notion of Chriſt, quiers and pleaſes them ſufficiently, ſaying in effect, Let us go with thee and bear thy name, but we will eat our own bread. But God left me not to this paſs, but cauſed the real Majeſty and greatneſs of his Son ſo to b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eak out upon me, as to convince me that the ſame honour was due to him that was due to the Father; and that I muſt apply to him as the onely Peace-maker and Mediator betweed God and my ſoul. At this time was the Scripture fulfilled in me, which ſaith, <hi>No man cometh to the Father but by the Son,</hi> and again, <hi>No man cometh to me, except the Father draw him.</hi>
+            </p>
+            <p>Satan, from whom before this time I had received no temptation concerning Chriſt, (like a Lyon in a ſeeming ſleep) rouſed himſelf with great ſury and rage, that if poſſible he might keep me from believing, and cloſing with God in a Covenant of Grace. The firſt ſcruple he caſt in, was, With what ſafety or prudence I could ad<g ref="char:EOLhyphen"/>venture
+<pb n="16" facs="tcp:65666:17"/> my eternal happineſs upon him, of whom ſo great a Queſtion was in the world, whether he were the Son of God or no?</p>
+            <p>To help my ſelf againſt this, I read the Hiſtory of him in the Evangeliſts, but could not do it peaceably, for the blaſphemies injected by Satan into my thoughts con<g ref="char:EOLhyphen"/>cerning him: By this means, the old wound of my Conſcience, not yet healed, began again to throb and bleed afreſh: Fairn, which carnal people ſpeak of as if they wore it in their Pockets, I found hard, to a degree of difficulty next impoſſible: My deſires preſt vehemently after Faith, but found no adherence to or reſting on Chriſt, which I could p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rceive or take comfort from: For while I read, meditated of, and ſought to Jeſus Chriſt, I could find nothing but unbelieving, undervaluing thoughts, partly ariſing from mine own heart, and partly caſt in by Satan. At length, having ſpent many ſad and weary hours in ſearch<g ref="char:EOLhyphen"/>ing, I met with the Parable of the unjuſt Judge, recorded, <hi>Luke</hi> 18. 1, 2, 3, <hi>&amp;c.</hi> un<g ref="char:EOLhyphen"/>der which Chriſt recommends to us impor<g ref="char:EOLhyphen"/>tunity in prayer, from the example of him, who adminiſtred Juſtice to a poor Widow, to free himſelf from the troable he ſore<g ref="char:EOLhyphen"/>ſaw
+<pb n="17" facs="tcp:65666:17"/> ſhe would give him, though he feared not God, nor regarded Man. The Spirit of God ſet this ſo home upon me, as cloſing the book ſuddenly, I ſaid within my ſelf, Is it even ſo! then Lord I will never give thee reſt, but my ſoul ſhall with thy graci<g ref="char:EOLhyphen"/>ous Aſſiſtance, follow hard after thee till I have found the thing I ſeek. Upon this I found ſome dawnings of Faith and Hope; yet was this twilight ſoon made dark by the advantage Satan took of my weakneſs, to recover in what degree he could his al<g ref="char:EOLhyphen"/>moſt loſt poſſeſſion. To the beſt of my re<g ref="char:EOLhyphen"/>memb<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance I was exerciſed in this manner, with various diſquietments, for the ſpace of three years; which while I revolved in my mind meditating on my condition, and walking alone, this Scripture was ſuggeſt<g ref="char:EOLhyphen"/>ed to me, <hi>For a little moment have I bid my face from thee, but with everlaſting kindneſs will I return to thee, ſaith the Lord.</hi> At the firſt view I knew it to be Scripture, but un<g ref="char:EOLhyphen"/>derſtood it not under the notion of a Go<g ref="char:EOLhyphen"/>ſpel-promiſe, as being then unacquainted with that term But this was not more per<g ref="char:EOLhyphen"/>tinent than ſeaſonable; the Conſolation iſſuing from it, being impreſt very deep upon me, I fell to reaſon from it; What if God hides his face from me for a ſeaſon,
+<pb n="18" facs="tcp:65666:18"/> which I think long? admit all my dayes, yet, it is but a moment to Eternity; and the happineſs of being received into favour at laſt, will ſwallow up all my grief in the <hi>interim,</hi> and that in a moment to be ſure.</p>
+            <p>The Hiſtory of <hi>St.</hi> Paul's <hi>Converſion,</hi> was a great inducement to my Faith alſo at this time. In the ſtrength of that, which I had by this means obtained, I reſolved to go foreward, waiting the good pleaſure of the Lord for further manifeſtations.</p>
+            <p>The next eſtabliſhment I received, was, by reading the ſtory of one cured by Chriſt of Blindneſs, <hi>John</hi> 9. In reading which Chapter, I obſerved the manner of the cure, and the conſequence of it.</p>
+            <p>I took notice of the behaviour of the hypocritical, rebellious, gain-ſaying Pha<g ref="char:EOLhyphen"/>riſees, towards him on whom the miracle was wrought, and of their opprobrious Blaſphemies againſt him that wrought it. I found my heart cleaving to the man that was healed for owning Chriſt, and my ha<g ref="char:EOLhyphen"/>tred kindled againſt them, who upon this occaſion, did reproach and vilifie him. Yet withall, the old Tempter played his game, vcxing me with inſinuations, that for ought I knew the Phariſees ſpake true of him. being hereby put into an unquiet frame, I
+<pb n="19" facs="tcp:65666:18"/> fate lamenting the hardneſs of my heart, and concluding I could not obtain Mercy at his hand, of whom I was apt to enter<g ref="char:EOLhyphen"/>tain ſuch baſe thoughts: Hereupon, tho<g ref="char:EOLhyphen"/>row wearineſs, and heavineſs of ſpirit, I fell into a ſlumber, in which Chriſt ſeem<g ref="char:EOLhyphen"/>ed to appear to me, with his breaſt open, and Blood iſſuing out as Water from a Fountain, and uttered theſe words, <hi>viz, Come, drink freely, and be ſat<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fied.</hi> Upon this invitation, I ſeemed to draw near to him, and to drink of his Blood abundantly, and with great pleaſure; continuing ſtill thirſt<g ref="char:EOLhyphen"/>ing, and drinking, while I awoke from ſleep, and found my ſelf gaſping for breath, and ſoul and body refreſht as with a rich Cordial: My ſoul was hereby greatly melt<g ref="char:EOLhyphen"/>ed with love to Chriſt, for condeſcend<g ref="char:EOLhyphen"/>ing to me in ſo great a ſtrait, with ſo much tenderneſs and familiarity; and I did re<g ref="char:EOLhyphen"/>ſolve to believe in him with the ſame ear<g ref="char:EOLhyphen"/>neſtneſs with which in my dream I ſeem<g ref="char:EOLhyphen"/>ed to drink in his Blood. From that time I began to have the ſenſe of his Love, and enjoyment of his Preſence: yet not with<g ref="char:EOLhyphen"/>out oppoſition; for Satan inſtantly ſtept in, and told me it was but a dream; and would I be ſo fooliſh as to bottom Soul<g ref="char:EOLhyphen"/>comfort upon dreams?</p>
+            <pb n="20" facs="tcp:65666:19"/>
+            <p>I anſwered, That I would not contend about the nature of this dream, but ſure I was, that when I was awakened out of it, God did enable me to believe more ſted<g ref="char:EOLhyphen"/>faſtly than before; and this I looked upon as a ſound argument of comfort.</p>
+            <p>After this I continued with much more Peace, Light, and direction whence to fetch Peace of Conſcience, than I had for<g ref="char:EOLhyphen"/>merly been acquainted with, till the Forge of Hell had formed another Weapon to break this Work in me: which was by per<g ref="char:EOLhyphen"/>ſwading me, That the Scripture was not the Word of God, but meerly of man's in<g ref="char:EOLhyphen"/>vention: and if ſo, it was but an imagina<g ref="char:EOLhyphen"/>ry Chriſt I believed in, and a fained faith I took comfo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t from: Nay, and further, that if the Scr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s were not of God, nor Chriſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>viour, then was there no God <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all, and ſo all my labour loſt in ſeek<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng him. Thus the Devil <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oucht his ar<g ref="char:EOLhyphen"/>gument, making one thing very dependent on another. For certa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> there is a God, he hath revealed himſelf; and i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not in the Sc<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures, no where To this aſſurance God hath now in gr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at mercy brought me: but in the infancy of my Converſion, it was not ſo with me. For ſo far was I left to the cloſe purſuit of my ſpiritual Enemy,
+<pb n="21" facs="tcp:65666:19"/> and ſunk ſo low under his ſtrong Aſ<g ref="char:EOLhyphen"/>ſaults, as I ſeemed ſomet<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me to conclude, There was neither Heaven nor Hell, God nor Devil. Behold how pit<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous a Crea<g ref="char:EOLhyphen"/>ture was I! who without God's ſpecial Aſſiſtance, ſhould have been led to deter<g ref="char:EOLhyphen"/>mine againſt mine own tryed <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xperience, in things more certain than tho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> objects about which ſenſe is converſant! For be<g ref="char:EOLhyphen"/>fore this I had enjoyed the Preſence of God, and ſome taſte of his heavenly Com<g ref="char:EOLhyphen"/>forts; and felt the power of Satan with ſome ſcorchings of helliſh anguiſh. But remaining under this diſtreſs, doubting whether there was a God, yet thinking there was, and honouring thoſe that walk<g ref="char:EOLhyphen"/>ed conſcionably, becauſe I ſuppoſed they knew it, I pitcht upon this; If there be a Devil, ſurely there is a God. Hereupon, though I were of a very timerous nature, I oft reſorted into dark and loneſome pla<g ref="char:EOLhyphen"/>ces, hoping to ſee the Devil, as a means to convince me that there was a God.</p>
+            <p>This is put down, to ſhew the extremity of my Temptation, and folly of ſeeking that way of relief. While I was under this Tryal, I perceived, that by it Satan en<g ref="char:EOLhyphen"/>deavoured to bring me to a licencious courſe of life. For if no God, nor Devil,
+<pb n="22" facs="tcp:65666:20"/> Heaven nor Hell, what need a man care what he ſpeaks, thinks, or doth, further than to accompliſh his luſtſul deſigns, and ſatisfie the fleſh? Let them conſider whoſe works they do, and what their wayes with<g ref="char:EOLhyphen"/>out Repentance will be, who muſter up Arguments in Print, denying the Eternity of the puniſhment of Reprobates.</p>
+            <p>But to proceed to ſpeak of the ſtraits I now lay under: In them I endeavoured to apply to God in Prayer; but ſuch horrid Blaſphemies upon that attempt were caſt in, as I was greatly diſcouraged to think upon him, or draw near to him in any act of Worſhip. How ſad a time this was, I appeal to thoſe who have taſted of the like Cup: It brought me to this reſolution, That if God, about whom I had ſuch con<g ref="char:EOLhyphen"/>flicts, had a Being (which, for all this, I could not wholly be beaten from the be<g ref="char:EOLhyphen"/>lief of) and would manifeſt his Favour to me in Chriſt, I was willing to be a Vaſſel to the moſt tyrannical Monarch that ever the earth did bear, all my dayes; or to be expoſed to any other ſuffering which he ſhould think fit to inflict. How unworthy am I then, who have received the accom<g ref="char:EOLhyphen"/>pliſhment of that deſire, and yet want that affection to God, and rejoycing in him,
+<pb n="23" facs="tcp:65666:20"/> which I thought that Mercy he hath added thereunto, a plentious poſſeſſion of outward Comforts? I want a heart to hate my ſelf for this, and words to ſignifie the hatred I feel. How can I appear in the pre<g ref="char:EOLhyphen"/>ſence of God with this burthen of ingrati<g ref="char:EOLhyphen"/>tude, if I were not brought in by my faith<g ref="char:EOLhyphen"/>ful High Prieſt? As to the means of get<g ref="char:EOLhyphen"/>ting free from this encounter, thus it was; Being brought, through long wreſtling, to the very point of yielding, and giving all for loſt, like a routed Army, or beaten man; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſh ſtrength was miniſtred to me from this Text, <hi>No temptation hath befallen you, but that which is common to man; but God is Faithful, who with the temptation, will give an iſſue that ye ſhall be able to bear it,</hi> This Scripture I met with, reading the Chapter wherein it is; and pauſing upon it, I took ſpecial notice, that the opinion I had long nouriſhed, was, that my caſe was peculiar, and none ever like me before. This I found to be untrue: For the Text in ſo many words, ſaith the contrary.</p>
+            <p>Then, that as my caſe was none other than had befallen others, ſo God was faithful, and of his faithfulneſs would give me a good iſſue out of it in his due time.
+<pb n="24" facs="tcp:65666:21"/> And I eſpecially note it, as the firſt time that ever I did think it to be God's deal<g ref="char:EOLhyphen"/>ing, to leave ſinners to the buffeting of Sa<g ref="char:EOLhyphen"/>tan and his winnowings; and to the turbu<g ref="char:EOLhyphen"/>lency of their own ſpirits, as a means to con<g ref="char:EOLhyphen"/>vert them to himſelf, and ſanctiſie and ſave them. This light I had by meditating upon the words, being without the benefit of Preachers, good Books, or experienced Chriſtians.</p>
+            <p>After theſe things, I continued waiting on God in the way of ſuch duties as I under<g ref="char:EOLhyphen"/>ſtood, exerciſing my ſelf in prayer, reading, and the works of my particular calling, but attained to little eſtabliſhment in a way of abiding comfort, meeting ſtill ſometimes with one temptation, ſometimes with ano<g ref="char:EOLhyphen"/>ther; ſome new, ſome old ones repeated, according to the multitude of Satan's ſub<g ref="char:EOLhyphen"/>tilties, and the opportunities my corrupt heart, or iniquities of the time and place wherein I lived, miniſtred unto him.</p>
+            <p>I remember not ſo well as to relate it diſtinctly, how long I continued in this condition, nor the manner of my releaſe from it: By reaſon of which I muſt omit many conſiderable circumſtances. But in general, after about two years added to the three years formerly mentioned, the
+<pb n="25" facs="tcp:65666:21"/> Lord brake in upon me with a very plen<g ref="char:EOLhyphen"/>tiful diſcovery of himſelf, and enabled me to renew the actings of my ſaith upon him. I was immediately thereupon filled with joy and peace more than I can ex<g ref="char:EOLhyphen"/>preſs: being throughly convinced that there is a God, the Scriptures were of his inſpiring, and that Chriſt was the Saviour of believing repentant ſinners. The Ordi<g ref="char:EOLhyphen"/>nances I injoyed were my meat and drink, the Sabbath my delight. I ſpeak not this, as if I had that meaſure of faith, joy and delight as I ought to have, or as many of the People of God (I ſuppoſe) have had, but I call it filling me with theſe graces comparatively to what I formerly had ex<g ref="char:EOLhyphen"/>perienced. For in this whole <hi>Narrative</hi> I am very fearful to lie for the glory of God, by relating any work of his in me higher than it was; and withal would be very loth to diminiſh, detract from, or conceal any of the merciful diſpenſations of his love and grace towards me.</p>
+            <p>Before I removed out of the Country where the Work which hath been the ſub<g ref="char:EOLhyphen"/>ject of what is here written paſt upon me. I conceive it uſeful to remember the de<g ref="char:EOLhyphen"/>portment of ſome Relations to me, with the frame of my heart in reference thereto.</p>
+            <pb n="26" facs="tcp:65666:22"/>
+            <p>For however I did endeavour to hide this great change from the eyes of all men, yet it had been as eaſie for me to ſuppreſs a perfume, by ſhutting it in the hollow of my hand. Grace as well as Sin hath the advantage of its kind, which is to diſcover it ſelf. I could not but retire my ſelf often to enjoy communion with God; In which retirement, when ſome obſerved me, they did commend me; others reproached me, and ſaid, I grew bookiſh. One called me Hypocrite, and ſaid, <hi>A young Saint would be an old Devil.</hi>
+            </p>
+            <p>Such words troubled me greatly all the while I was in doubt of mine own conditi<g ref="char:EOLhyphen"/>on, as to my being in Chriſt: And the par<g ref="char:EOLhyphen"/>ty that ſpake them, was an eminent inſtru<g ref="char:EOLhyphen"/>ment in the hand of the Devil to diſtreſs and diſcompoſe me. But after I received from the Lord ſome taſtes and evidences of his Love, thoſe revilings and hard ſpeeches comforted me; for I eſteemed it my Glo<g ref="char:EOLhyphen"/>ry, to ſuffer ſhame for his Names ſake.</p>
+            <p>By this time, finding the place where I lived, in reference to Religion, without means of light, and (as the fruit of it) ex<g ref="char:EOLhyphen"/>ceedingly ſinful, and prophane, men and women generally wallowing in brutiſh Iuſts, I grew extream weary of living in it'
+<pb n="27" facs="tcp:65666:22"/> and thereupon ſought God in Prayer ear<g ref="char:EOLhyphen"/>neſtly, to find a way of removing me, where I might have better example, better teach<g ref="char:EOLhyphen"/>ing, better helps and advantages, of perfe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct<g ref="char:EOLhyphen"/>ing what he had graciouſly begun in me, having had my ſoul often vexed, by hearing and ſeeing, as <hi>Lot</hi>'s was. In this, after a ſhort time, God anſwered me, inclining the hearts of my Parents to ſend me to <hi>London;</hi> and placed me for a while with ſome Friends in and near that City. This change of place, and newneſs of acquaintance, produced new temptations: For though the Seed of God abiding in me, kept in me ſome tenderneſs of ſpirit, yet many worldly diverſions from my former and more conſtant fellowſhip with God, brought me into a very drowſie temper. I lived with Profeſſors of Reli<g ref="char:EOLhyphen"/>gion, but found not the power of Chriſti<g ref="char:EOLhyphen"/>an Principles acting in them, eſpecially ſome of them, though from others I had help and encouragement: But ſome were ſo choaked with worldly cares, and drown<g ref="char:EOLhyphen"/>ed in carnal groundleſs jealouſies, as they became burthenſome and uncomfortable to themſelves, and thoſe that converſed with them, eſpecially if they had depen<g ref="char:EOLhyphen"/>dance on them, as I had. Nevertheleſs, he that bringeth Good out of Evil, and
+<pb n="28" facs="tcp:65666:23"/> whoſe Covenant is, <hi>That all things ſhall work together for good to them that love Him,</hi> made uſe of that unacceptable qua<g ref="char:EOLhyphen"/>lity, to awaken me and cauſe me to reflect upon my declinings.</p>
+            <p>God is a jealous God, and will ſuffer no corrival or competitor in the hearts of his Children: Thereupon to chaſten me, for ſuffering my ſoul to wander after, and cl<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve to worldly delights and exp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctati<g ref="char:EOLhyphen"/>ons, he left a Perſon of Q<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lity, with whom I <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ived, und<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the dominion of an infirmity very natural to her, and very ſinful (the G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcy convince her of it, and reform her) g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ, Jeaſou<g ref="char:EOLhyphen"/>ſie: An app<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>henſion poſſeſt h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reaſon of it, tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I had an u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſign upon her; and as untrue as it was, it put her, and ſhe me, by reaſon of it, into a very great diſcompoſure. This p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge I ſhould alto<g ref="char:EOLhyphen"/>gether om<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, if I could make the ſtory of God's dealing with me in this caſe per<g ref="char:EOLhyphen"/>fect without it; nor are ſuch things to he ſlighted: For H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, without whoſe provi<g ref="char:EOLhyphen"/>dence, <hi>a Sparow falleth not to the ground,</hi> and by whom <hi>the haires of our head are numbered,</hi> muſt be eyed and acknow<g ref="char:EOLhyphen"/>ledged in all his wayes. The Children of <hi>Jacob,</hi> muſt learn of their Father to ſee
+<pb n="29" facs="tcp:65666:23"/> the Face of God in a very <hi>Eſau.</hi> Now be<g ref="char:EOLhyphen"/>ing much burthen d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>und<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the Oppreſſion of the foreſaid f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> imagination, I had (according to my former courſe) recourſe to God, who ſeaſonably, and very effectu<g ref="char:EOLhyphen"/>ally preſented to my mind many paſſages of Scripture; by which I was in ſome me<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſure recovered from my backſliding: for a b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter nam<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I do not know it by: S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of which were theſe, <hi>Rom. 8. 28. For w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> know that all things work together for good to them that love God.</hi> Another was, <hi>Pſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. 139. 13. S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arch me, O God, and know my b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, try me, and know my thoughts, and ſee of there be any wicked way in me; and lead me in the Way everlaſting.</hi> This I made uſe on, when the fear of an hypocritical ſtate was upon me, occaſion<g ref="char:EOLhyphen"/>ned by my late decays.</p>
+            <p>Let this ſuffi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e brieſly to point, at what they were, how they came, and what means God applyed to recover me.</p>
+            <p>After theſe things, (the whole life of one in Chriſt being a warfare) I met with many conflicts; and ſtill the moſt conſtant one was about my Soul ſta<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c, whether in Chriſt, or not in Chriſt, reconciled to God by his Blood, or not reconc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led? and tho<g ref="char:EOLhyphen"/>row the remnant of Corruption, I am not
+<pb n="30" facs="tcp:65666:24"/> altogether delivered from this temptation at this very time. I received much eſta<g ref="char:EOLhyphen"/>bliſhment at one time from <hi>Iſa. 27. 5. Let him take hold of my ſtrength, that he may make peace with me, and he ſhall make peace with me.</hi> At another time hearing this Scripture read, <hi>Pſal. 25. 10. All the Paths of the Lord are Mercy and Truth to ſuch as keep his Covenants, and his Teſtimonies:</hi> I was aſſiſted to have very comfortable re<g ref="char:EOLhyphen"/>flections upon it. By the Paths of the Lord, I underſtood his providential Diſ<g ref="char:EOLhyphen"/>ſpenſations, wherein he walks, as men do, in a path to an intended end, which is the accompliſhment of his Glory, in bring<g ref="char:EOLhyphen"/>ing the Seed of Chriſt to Glory. Now, though the Paths are exceeding various: Sometimes God lifts his People up; ſome<g ref="char:EOLhyphen"/>times he caſts them down; ſometimes he gives them victory over ſin, Satan and themſelves; ſometimes he leaves them to be led captive, and then enlarges them out of that Bondage, for the moſt part, by Afflictions: One while he tryes their Grace, and gives them the ſenſe and com<g ref="char:EOLhyphen"/>fort of it; another while he chaſtens Diſ<g ref="char:EOLhyphen"/>obedience, and gives them the fruit of that in mortification: But let the Paths of God be never ſo many, and ſeem to lye
+<pb n="31" facs="tcp:65666:24"/> never ſo croſs (as Road-wayes over a Champion) yet are they all Mercy even to thoſe that taſte moſt Severity and Truth, yea, though they ſeem contrary to his Pro<g ref="char:EOLhyphen"/>miſe, to them that keep his Covenant and his Teſtimonies. So that in the way of obedience to his Teſtimonies, and cleav<g ref="char:EOLhyphen"/>ing to his Covenant, I was aſſured all his Paths to me would be Mercy and Truth.</p>
+            <p>Iſa. 3. 12. <hi>Go and proclaim theſe words towards the North, and ſay, Return thou back ſliding Iſrael, ſaith the Lord, and I will not cauſe mine Anger to fall upon thee; For I am Merciful, ſaith the Lord, and I will not keep mine Anger for ever; only ac<g ref="char:EOLhyphen"/>knowledge thine iniquity, that thou haſt tranſgreſſed againſt the Lord thy God.</hi> Eve<g ref="char:EOLhyphen"/>ry thing in this Text comforted me. Firſt, that God expreſt his forwardneſs to re<g ref="char:EOLhyphen"/>ceive wandering ſinners, by ſending forth a Proclamation to invite their return. <hi>Go and proclaim,</hi> ſaith he. Then, that this was directed to the worſt ſort of ſinners, <hi>Back<g ref="char:EOLhyphen"/>ſliders.</hi> The Backſlider ſeemes to tell the World, that upon his particular experi<g ref="char:EOLhyphen"/>ence, there is nothing worth enjoying in the Wayes of God; and this is the worſt reflection upon them than can be. None ſo bad as falſe friends. Traytors in a Court,
+<pb n="32" facs="tcp:65666:25"/> the worſt Traitors. Backſliding <hi>Iſrael</hi> not<g ref="char:EOLhyphen"/>withſtanding is called upon to return. This I looked upon as an evil to which I was very prone, even to grow weary of the ſtrict wayes of God. <hi>I will not cauſe mine Anger to fall upon thee:</hi> And again, <hi>I am Merciful, and will not keep mine Anger for ever.</hi> I was convinced that I did de<g ref="char:EOLhyphen"/>ſerve preſent wrath and eternal wrath, did not Mercy thus ſtep in. The laſt thing is direction to a duty, wherein to expect the diſpenſation of mercy, acknowledge thine iniquity that thou haſt tranſgreſſed, which requires not an empty heartleſs verbal Confeſſion, but Confeſſion with hatred of ſin, Faith in the pardon of it; and endea<g ref="char:EOLhyphen"/>vour to reform it. <hi>Pſal. 103. 8, 9. The Lord is merciful and gracious, ſl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w to anger, and plenteous in Mercy: He will not al<g ref="char:EOLhyphen"/>wayes chide, neither will he keep his An<g ref="char:EOLhyphen"/>ger for ever.</hi> This place ſupported my Faith under the conſideration of my mer<g ref="char:EOLhyphen"/>rit, which was Wrath from God, whereto he declares himſelf ſlow; and alſo it mi<g ref="char:EOLhyphen"/>niſtred hope to me of deliverance from thoſe corrective Effects of God's diſplea<g ref="char:EOLhyphen"/>ſure againſt ſin in me, which he out of love laid upon me. <hi>Iſa. 41. 10. Fear not, for I am with thee; be not diſmaied, for I am thy</hi>
+               <pb n="33" facs="tcp:65666:25"/> 
+               <hi>God. I will ſtrengthen thee, yea, I will help thee, yea, I will uphold thee with the right<g ref="char:EOLhyphen"/>hand of my Righteouſneſs.</hi> This Text was applyed to me, when I was beſet with va<g ref="char:EOLhyphen"/>riety of troubles, ſome inward, ſome out<g ref="char:EOLhyphen"/>ward. Many from my ſelf, reſpecting the ſtate I ſtood in, and the years I had attain<g ref="char:EOLhyphen"/>ed to: Some from my Relations in the fleſh, whoſe troubles were many, and their outward condition clouded; and the ſpi<g ref="char:EOLhyphen"/>ritual eſtate of many of them, not ſuch as I was ſatisfied in. But from this place, God, by the right-hand of his Righteouſ<g ref="char:EOLhyphen"/>neſs (as he here calls it) reached out ſup<g ref="char:EOLhyphen"/>port to me: <hi>Fear not, be not diſmayed.</hi> With both theſe did I at this time contend, not only fear, but diſmaying, diſcourage<g ref="char:EOLhyphen"/>ing fear; for both the nature, and dreſs of things, as the image of them appeared to me, was very tremendious. Therefore God applyed comfort to me in a term of relation; <hi>I am thy God;</hi> as in a gracious Promiſe of preſence, <hi>I will be with thee;</hi> and unſolds what he means by being with me, <hi>viz.</hi> to help in every difficulty, and uphold under every burthen.</p>
+            <p>
+               <hi>Iſa. 26. 3. Thou wilt keep him in perfect peace, whoſe mind is ſtaid upon thee, becauſe he truſteth in thee.</hi> Ibid. 40. 31. <hi>But they</hi>
+               <pb n="34" facs="tcp:65666:26"/> 
+               <hi>that wait upon the Lord ſhall renew their ſtrength, they ſhall mount up with wings as Eagles; they ſhall run, and not be weary; they ſhall walk, and not be faint.</hi>
+            </p>
+            <p>John 3. 16. <hi>God ſo loved the World, that he gave his only beg<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tten Son, that wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſoever believeth in him, ſhould not periſh, but have everlaſting Life.</hi> Iſa. 43. 25. <hi>But I, even I am he that blott<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th out thy tranſgreſſion for mine own ſake.</hi> Pſal. 32. 8. <hi>I will inſtruct thee, and teach thee in the Way that thou ſhalt go, and guide thee with mine eye.</hi> Rom. 4. 5. <hi>To him that worketh not, but believeth on him that juſtifieth the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>god<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, his Faith <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s counted for Righteouſneſs.</hi> Theſe Scrip<g ref="char:EOLhyphen"/>tures eminently holding forth the moſt Eſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utials in Chriſtianity, were of very great uſe to me, not once or twice, but ſo oft as I had recourſe to them, which was very frequent, being oft in tryals, which made them ſeaſonable; eſpecially <hi>Pſal.</hi> 32. 8. formerly wrote down, was a Scrip<g ref="char:EOLhyphen"/>ture which I repaired to in all doubtful caſes. I was taught from <hi>John</hi> 3. 16. that the Love of God was the Fountain of my happineſs, being that, out of which Chriſt himſelf was given for me. <hi>Rom.</hi> 4. 5. in<g ref="char:EOLhyphen"/>ſtructed me, that a Righteouſneſs laid hold on by Faith, juſtifie<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without the leaſt ad<g ref="char:EOLhyphen"/>dition
+<pb n="35" facs="tcp:65666:26"/> of works wrought by me, which of how great uſe ſoever (being indeed one end of that which Chriſt hath ſuffered and done for me, that I might be God's Work<g ref="char:EOLhyphen"/>manſhip in him created to good works) yet no material meritorious, no, or the leaſt moving cauſe why my perſon ſhould be accepted of God: In this reſpect I count them all loſt, as <hi>Paul</hi> did his, <hi>Phil.</hi> 3. 8.</p>
+            <p>The Prayer of Chriſt, recorded <hi>John</hi> 17. 20, 21, 22, 23, 24. afforded me ſo great Comfort, that I cannot be ſatisfied with<g ref="char:EOLhyphen"/>out leaving a particular account of it. The words are, <hi>Neither pray I for theſe alone, but for them alſo that ſhall believe in me thorow their Word, that they may be all one, as thou Father art in me and I in thee, that they al<g ref="char:EOLhyphen"/>ſo may be one in us, that the World may believe that thou haſt ſent me: And the Glory which thou gaveſt me, I have given them, that they may be one even as we are one. I in them, and thou in me, that they may be made perfect in one, and that the world may know that thou haſt ſent me, and haſt loved them as thou haſt loved me.</hi>
+            </p>
+            <p>
+               <hi>Father, I will that they alſo whom thou haſt given me, be with me where I am, that they may behold my glory which thou haſt given</hi>
+               <pb n="36" facs="tcp:65666:27"/> 
+               <hi>me: For thou lovedſt me before the Founda<g ref="char:EOLhyphen"/>tion of the World.</hi> The Love of Chriſt, in theſe words ſet forth, did, and doth ſo drink up my ſpirit, as I am like one drunk<g ref="char:EOLhyphen"/>en with Wine, not able to ſpeak of the ſweetneſs of it. Well, to underſtand, and ſavour his Words in this Prayer, is (if I know any thing of ſuch entertaiment) to be led into his Banqueting-houſe, and Wine-cellar; of whoſe Love the <hi>Song of Solomon</hi> ſpeaks.</p>
+            <p>It being my lot to live in an age where<g ref="char:EOLhyphen"/>in Errour abounded, I think fit to menti<g ref="char:EOLhyphen"/>on thoſe Scriptures, which perſwaded me from ſome of thoſe Errours, of the moſt dangerous nature, as moſt evidently againſt the foundation of that Covenant, which God had confirmed to me. The one was the freedom of an unregenerate will to be<g ref="char:EOLhyphen"/>lieve in Chriſt. <hi>Epheſ.</hi> 2. 8. it is thus writ<g ref="char:EOLhyphen"/>ten, <hi>By Grace ye are ſaved thorow Faith, and that not of your ſelves; it is the gift of God.</hi> Beſides the experience I had of my natural inability to receive Chriſt by Faith, this Text tells me expreſly, That men have it not from themſelves, but that, <hi>it is the Gift of God.</hi>
+            </p>
+            <p>I have <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d this to be a point of great controverſie among the Learned; wher<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>in,
+<pb n="37" facs="tcp:65666:27"/> if the experience of a ſinner burthen<g ref="char:EOLhyphen"/>ed with guilt, may moderate, I doubt not but to have a determination to the ſenſe I have given.</p>
+            <p>Again, <hi>Jer.</hi> 31. 19. I read thus, <hi>After I was turned, I repented; and after I was inſtructed, I ſmote upon my thigh: I was aſhamed, and even confounded, becauſe I did bear the reproach of my youth.</hi> This place ſhews, that God's work upon us, goes be<g ref="char:EOLhyphen"/>fore our works towards him: Man cannot turn till he is turned, or ſmite upon his thigh, before he his inſtructed. I therefore agree with thoſe, who ſay that the carnal will is in bondage to ſin, as well as the car<g ref="char:EOLhyphen"/>nal mind, neither of them being ſubject to the Law of God, or can be: For I do conceive, that without ſupernatural in<g ref="char:EOLhyphen"/>ſtruction (which I take to be the ſame with ſpiritual Illumination, or an Anoint<g ref="char:EOLhyphen"/>ing which teacheth all things) the will is altogether incapacitated to chuſe aright. Nor am I aſhamed to acknowledge thoſe whoſe labours God hath uſed to inform and edifie me. Mr. <hi>Pemble upon Faith and Grace,</hi> was a book I took much pleaſure in, as that which made things clear to me, which I formerly underſtood little of. I underſtood the better what was written by
+<pb n="38" facs="tcp:65666:28"/> him, becauſe I had experienced the truth of his Notions. So much for freedom of will.</p>
+            <p>As to Perſeverance, which is another truth much oppoſed, I have eſtabliſh<g ref="char:EOLhyphen"/>ment in it from <hi>John 10. 28. And I give unto them eternal Life, and they ſhall never periſh; neither ſhall any man pluck them our of my hand. My Father which gave them me, is greater than all, and no man is able to pluck them out of my Fathers hand.</hi> This ſaying of our Lord, preſerves me from be<g ref="char:EOLhyphen"/>ing infected with that c<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nal, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, rack<g ref="char:EOLhyphen"/>ing Opinion, that a true juſtified perſon may fall from that ſtate, and that Chriſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Satan change members d<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y.</p>
+            <p>I proceed to the laſt ſtage of my tra<g ref="char:EOLhyphen"/>vels, about which I intend any farther diſcourſe, and that was <hi>Whitehall;</hi> for thither the hand of providence led me; and in a ſhort time after I came thither, I met with a change of my condition, from ſingle to married. The dealings of God with me in this place and ſtate, were too remarkable to be paſt over in ſi<g ref="char:EOLhyphen"/>lence.</p>
+            <p>New relations call for new d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ties; new duties require new graces, and are, as I ſaid before, attended with new tryals: for
+<pb n="39" facs="tcp:65666:28"/> ſin ſticking cloſe to the whole man, en<g ref="char:EOLhyphen"/>deavours to promote it ſelf by <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> currence in this world.</p>
+            <p>The ſorrows and bitterneſs that every enjoyment in this life is attended with, derives its Original from ſin. And al<g ref="char:EOLhyphen"/>though the comforts I met with in Marri<g ref="char:EOLhyphen"/>age, were many, and ſuch as that ſtate af<g ref="char:EOLhyphen"/>fords to few, in ſundry particulars, yet I found vanity enough in it alſo, teaching me to ſay, Ariſe, and go hence, for this is not thy reſt: Yet in all my ſtraits, ſtill he was near that helped me: and how bad ſoever my naughty heart behaved it ſelf, yet he that for his own ſake loveth, and ſaveth, did deliver me.</p>
+            <p>God gave me to find favour in the eyes of the Governours, and chief Perſons in that Court, and generally I did not obſerve any to be an enemy to me, as firſt, till ſome began to deſpiſe, and hate me partly for my Profeſſion, and partly out of ſome lit<g ref="char:EOLhyphen"/>tle envy, which thoſe places abound with. Now, for a perſons of my years and inter<g ref="char:EOLhyphen"/>eſt, not to begin a building of worldly happineſs upon ſuch a foundation, is very unuſual: For my part I am willing to take to my ſelf the ſhame of confeſſing, that I fell into this ſhare; only through Mercy
+<pb n="40" facs="tcp:65666:29"/> it held me not long: the Lord ſoon ſhew<g ref="char:EOLhyphen"/>ing me experimentally, that <hi>Men of high degree are a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and ſhewing me good rea<g ref="char:EOLhyphen"/>ſon, why he commanded me to ceaſe from them.</p>
+            <p>To relate the particular Tryals that here I met with, would argue my memory over tenacious of ſuch things, and appear uncomely in other reſpects. The miſcar<g ref="char:EOLhyphen"/>riages of Profeſſors in this age, is too noto<g ref="char:EOLhyphen"/>rious, and God hath made their ſufferings as viſible.</p>
+            <p>To ſet forth God's dealings with me in thoſe times, is that which I am carrying on. I remember that my approach to Mar<g ref="char:EOLhyphen"/>riage was with great perturbation of mind: for though my affections were deeply enga<g ref="char:EOLhyphen"/>ged <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him that God provided for me, and have from thence to this day grown up, and that upon ſuch principles, as will en<g ref="char:EOLhyphen"/>dure when my relation to him, as a wife, ſhall ceaſe: yet worldly cares did preſent themſelves to me in great multitudes; the Devil providing inſtruments to help that buſineſs of his forward; who frequently told me how unhappy I ſhould be, if ſuch things and ſuch things fell out: I dare ſay the parties ſought my good in it <hi>Peter</hi> did his Maſters, when
+<pb n="41" facs="tcp:65666:29"/> he prayed him to ſpare himſelf: yet was their diſcourſe to me as <hi>Peters</hi> was, temp<g ref="char:EOLhyphen"/>ting to ſin. It would be very unhanſome, to enter into the particulars of the things: but in the toſs and heat of them all, my heart was up to God for a word of ſupport, who gave it me in the words ſpoken to <hi>Joſhua, Chap. 1. verſ.</hi> 5. repeared by the Apoſtle, <hi>Heb. 13. 5. I will never leave thee, nor forſake thee.</hi> Upon my firſt reflecti<g ref="char:EOLhyphen"/>ons on this text, I knew not what to make of it, nor underſtood that it was to my caſe: but a while after, being in company with a very eminent Divine (upon what occaſion I know not now) he ſell into diſ<g ref="char:EOLhyphen"/>courſe upon that Scripture, and ſaid, That it was evident from the foregoing verſe, that that Promiſe was by the Apoſtle main<g ref="char:EOLhyphen"/>ly intended to arm people againſt thoſe worldly cares, that attend a married life. His words brought me to remembrance, how it had been by the immediate Voice of God, whiſpered to me when I was ex<g ref="char:EOLhyphen"/>erciſed with thoſe kind of diſtractions, and I was ſurprized with ſuch ſudden com<g ref="char:EOLhyphen"/>fort from it, that (though I ſaid nothing, my very looks diſcovered it to the party) who enquiring of me, found the relation of it, which now I make. At another
+<pb n="42" facs="tcp:65666:30"/> time, being under the fear of many dan<g ref="char:EOLhyphen"/>gers, which I foreſaw I was like to meet with, I was relieved by reading <hi>If. 48. 17. Thus ſaith the Lord, thy Redemer, the holy One of Iſrael, I am the Lord thy God, which teachet<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thee to profit; which leadeth thee by the way which thou ſhouldſt go.</hi>
+            </p>
+            <p>Hence God confirmed me in the belief of his continued care over me in my wil<g ref="char:EOLhyphen"/>derneſs walk, and removed in ſome mea<g ref="char:EOLhyphen"/>ſure my tormenting fears. At another time, having faln under ſome afflicting providence, but what it was I have for<g ref="char:EOLhyphen"/>gotten, God directed me to look into the cauſe of it from <hi>Iſa. 48. 18. O that thou hadſt hearkened to my Commandments, then had thy peace been as a River, and thy righ<g ref="char:EOLhyphen"/>teouſneſs as the Waves of the Sea.</hi> This place was applyed by me, as a reproof for my carnal converſation, and that not impro<g ref="char:EOLhyphen"/>perly; for I believe God taught me ſo to apply it; though I conceive withal, that it was originally uttered as an Expoſtulati<g ref="char:EOLhyphen"/>on with thoſe who pervert Goſpel-Light and Goſpel-Duties, turning them into a covenant of works, as the <hi>Jews</hi> then did, and as many nominal Chriſtians now do; thereby forſaking a Spring of living Wa<g ref="char:EOLhyphen"/>ter, for a crackt veſſel, or dirty puddle.</p>
+            <pb n="43" facs="tcp:65666:30"/>
+            <p>At another time I was ſeriouſly poring upon my ſelf, and turning my thoughts upon the frame of my heart, I obſerved ſuch emptineſs of Grace, ſuch fulneſs of Sin, fainting in my ſpirit, I ſaid within my ſelf, <hi>How can God take the leaſt pleaſure in ſo wretched a Creature?</hi> Then was the ſaying of <hi>David, 2 Sam.</hi> 23. 5. brought to remembrance: <hi>Although my houſe be not ſo with God, yet hath he made with me an everlaſting Covenant, ordered in all things, and ſure.</hi> Hence I collected, that if <hi>Da<g ref="char:EOLhyphen"/>vids</hi> happineſs, of whom God gives ſo high a Teſtimony, depended on an everlaſting well ordered Covenant, as the only <hi>baſis</hi> of it, it became me to lodge mine there alſo, what ever my perſonal qualifications were.</p>
+            <p>The ſtation in which I ſtood, had at ano<g ref="char:EOLhyphen"/>ther time occaſioned a long ſlumber to me, wherein I had not my former ſenſe of the working of Grace, nor fellowſhip with Chriſt: The vexation that it gave me, kept me from total ſtupidity, but it continued longer than ſuch <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts uſed to do; for I found not that genuine frame of mind, which I had formerly to God and his wayes: Then was I wonderfully bro<g ref="char:EOLhyphen"/>ken in upon, from <hi>Iſa.</hi> 54. 4, 5, 6, 7, 8, 9,
+<pb n="44" facs="tcp:65666:31"/> 10, 11. eſpecially that which ſetled me as upon a Mountain, was the tenth verſe, where it is ſaid, <hi>For the Mountains ſhall depart, and the Hills be removed; but my kindneſs ſhall not depart from thee, neither ſhall the Covenant of my Peace be removed, ſaith the Lord that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath mercy upon thee.</hi> This was ſo remarkable a paſſage, as I went to ſeek a place to pour out tears of joy, iſſuing from a heart melted with love. If ever I experienced true contrition, and a heart of ſtone turned into a heart of fleſh, it was at this time.</p>
+            <p>I was at another time, much affected from the conſideration of God's familiar dealing with ſinning man, in thoſe inti<g ref="char:EOLhyphen"/>mate expreſſions of love, and alluring in<g ref="char:EOLhyphen"/>vitations, by which he ſeeks to draw men after him, expreſt under ſuch taking ob<g ref="char:EOLhyphen"/>jects, <hi>Prov. 8. 17, 18. 19, 20, 21. I love them that love me; and thoſe that ſeek me early, ſhall find me. Riches and Honour are with me, yea, durable Riches and Righte<g ref="char:EOLhyphen"/>ouſneſs. My fruit is better than Gold, yea, than much fine Gold; and my revenue, than choiſe Silver. I lead in the way of righteouſ<g ref="char:EOLhyphen"/>neſs, in the midſt of the paths of judgement; that I may cauſe thoſe that love me, to inhe<g ref="char:EOLhyphen"/>rit ſubſtance; and I will fill their treaſures.</hi>
+            </p>
+            <pb n="45" facs="tcp:65666:31"/>
+            <p>In a time of darkneſs and perplexity of heart, by reaſon of it, I was inſulted over by Satan, as if he had obtained now a con<g ref="char:EOLhyphen"/>queſt over me: Then did the Spirit of God ſuggeſt theſe words unto me, <hi>Micah 7. 8. Rejoyce not againſt me, O mine enemy! though I fall, I ſhall riſe again; when I ſit in darkneſs, the Lord ſhall be a light unto me.</hi>
+            </p>
+            <p>Many other comforts, at ſundry times, from ſeveral Scriptures, were given in, fit<g ref="char:EOLhyphen"/>ted to the temptation that I was at ſuch times under, which I have ſinfully for<g ref="char:EOLhyphen"/>gotten, the Lord pardon me in much mer<g ref="char:EOLhyphen"/>cy: Some I can give the better account of, becauſe I wrote them in a Paper-book, which I have now by me; as 1 <hi>John 8. 9. If we confeſs our ſins, he is faithful and juſt to forgive us our ſins.</hi> Here, pardon of ſin is annexed to confeſſion of ſin: and it is a very comfortable place, when rightly un<g ref="char:EOLhyphen"/>derſtood, &amp; made uſe of; for it implies the knowledge of a ranſome for ſin, and Faith in a redeemer; for by the tenure of the Law, ſin is uupardonable: <hi>Curſed</hi> (ſaith it) <hi>is eve<g ref="char:EOLhyphen"/>ry one that continueth not in all things writ<g ref="char:EOLhyphen"/>ten in the book of the Law, to do them.</hi> Hence no ſorrow for ſin, turning from ſin, crying for pardon of ſin, can obtain it without the Mediation of him, who hath made his
+<pb n="46" facs="tcp:65666:32"/> ſoul an offering for ſin. But the common uſe that people make if it, who confeſs ſin formally, and reſolve to practiſe it ſub<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ally is an abhorrence to God, and all that have the Image of God ſtampt on them: <hi>We have done thoſe things,</hi> ſay they, <hi>which we ought not to have done; and we have left <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne thoſe things, which we ought to have done;</hi> and mi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht add [we reſolve ſo to do ſtill] elſe what means their re<g ref="char:EOLhyphen"/>turning from the ſolemnity of their De<g ref="char:EOLhyphen"/>votions, to Swearing, Drunkenneſs, Whoredom, and all abominations that lye in the way of their luſtful hearts. It hath troubled me ſorely, to hear carnal people make the way to Heaven ſo broad and eaſie in their diſcourſe, point-blank againſt what Chriſt ſaid of it: and it is a concluding argument they know it not. That God is merciful, and Chriſt dyed <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or ſinners, are precious truths, and of concernment to faln man, none greater: Yet do multitudes encourage themſelves from them to live in ſin, and thereupon periſh, for one who obtains Salvation by them.</p>
+            <p>I have been often quickned to duty from <hi>Heb. 6. 12. Be not ſl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thful, but follow<g ref="char:EOLhyphen"/>ers of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ, who through Faith and Patience</hi>
+               <pb n="47" facs="tcp:65666:32"/> 
+               <hi>inherit the Promiſes.</hi> I found Faith and Patience of abſolute neceſſity in all obe<g ref="char:EOLhyphen"/>dience, whethet active or paſſive: Nor may I omit the encouragement to obedi<g ref="char:EOLhyphen"/>ence laid down, <hi>verſ.</hi> 17. and 18. of that Chapter, wherein God is willing more a<g ref="char:EOLhyphen"/>bundantly, to ſhew unto the heirs of the Promiſe, the immutability of his Counſels, confirmed it by an Oath, that by two im<g ref="char:EOLhyphen"/>mutable things, in which it is not poſſible for God to lye, they might have ſtrong conſolation, who are fled for refuge to the hope ſet before them. Where I further noee a diſtinguiſhing character of a ſound Believer; he is ſaid here to fly for refuge to the hope ſet before him: For I do not think, that in time of ſore diſtreſs under the burthen of ſin, any but ſuch as in whom Chriſt dwels, can fly to him for refuge; though they may have other great accom<g ref="char:EOLhyphen"/>pliſhments, ſuch as to be enlightned to taſte the Heavenly Gift, to be partakers of the holy Ghoſt, and taſte the good Word of God, and the Powers of the World to come; as is ſaid of ſome, <hi>verſ.</hi> 4. 5. The words alſo <hi>Heb.</hi> 7. 25. have been of ſtand<g ref="char:EOLhyphen"/>ing ſupport to me: <hi>He is able to ſave them to the uttermoſt, that come to God through Him, ſeeing he ever liveth to make interceſſi<g ref="char:EOLhyphen"/>on
+<pb n="48" facs="tcp:65666:33"/> for them.</hi> And thus much of the m<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>remarkable things which beſel me before the beginning of my long ſickneſs.</p>
+            <p>About the beginning of <hi>April,</hi> in the year 58. I was taken with a violent cold, which was exceeding common at that time; ſince when I cannot ſay, that I have had one healthy day, as before, but diſtem<g ref="char:EOLhyphen"/>pers have increaſed upon me, with very troubleſome Effects and Symptoms. Un<g ref="char:EOLhyphen"/>der this viſitation, I have had great expe<g ref="char:EOLhyphen"/>rience of God's gracious dealing with me in my weakneſs: I had recourſe to the words of the Prophet, <hi>Jer. 9. 23, 24. Thus ſaith the Lord, Let not the ſtrong man glory in his ſtrength,</hi> &amp;c. <hi>But let him that glori<g ref="char:EOLhyphen"/>eth, glory in this, that he underſtandeth, and knoweth me, that I am the Lord, who exer<g ref="char:EOLhyphen"/>ciſe Loving-kindneſs, Judgement and Righte<g ref="char:EOLhyphen"/>ouſn<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs in the Earth.</hi> Alſo the ſaying of the Apoſtle, <hi>Jam.</hi> 1. 12. was of great uſe to me: <hi>Bleſſed is the man that endureth temptation; for when he is tryed, he ſhall receive the Crown of Life, which the Lord hath promiſed to them that love him.</hi>
+            </p>
+            <p>While theſe things paſt on, ſinding in my ſelf many ſigns of approaching morta<g ref="char:EOLhyphen"/>lity, I was very converſant in the more ſerious thoughts of Eternity; and I o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t
+<pb n="49" facs="tcp:65666:33"/> was thinking with my ſelf, Oh that I had a crevice, in at which to look, that I might ſee the ſtate of ſouls departed. Satan (who loſes no opportunity) took the hint of theſe thoughts, becauſe I did ſometime utter them, and interpoſed this ſuggeſti<g ref="char:EOLhyphen"/>on, That there was no ſuch enjoyment of God after death, as men talked on; and to make it good, inſtanced in thoſe who were raiſed from the dead, as <hi>Lazarus, Do<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cas,</hi> and thoſe that aroſe at the Reſurrection of Chriſt, and went into the City, and ap<g ref="char:EOLhyphen"/>peared to many; none of all which made any report of what they had ſeen; which no doubt they would have done, if they had been partakers of ſuch happineſs as ſome ſpeak of. My curioſity in this, God reproved in the words ſpoken to <hi>Job,</hi> Chap. 38. 17. <hi>Have the gates of death been opened unto thee?</hi> or, <hi>haſt thou ſeen the doors of the ſhadow of death?</hi> As if he ſhould ſay, The things thou enquireſt after, are ſe<g ref="char:EOLhyphen"/>crets, not to be pryed into.</p>
+            <p>In the beginning of that Chapter, I al<g ref="char:EOLhyphen"/>ſo read, how God argued <hi>Job,</hi> and in him me, into a conviction of what a poor worm man is, as being unable to ſearch into, or give an account of his wonders, wrought without number: And for my confirma<g ref="char:EOLhyphen"/>tion,
+<pb n="50" facs="tcp:65666:34"/> in the belief of the happineſs of Saints departed, preſented to me, <hi>John 14. 1. Let not your hearts be troubled, ye b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>li<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve in God, believe alſo in me. In my Fathers Houſe are many Manſions; if it were not ſo, I would have told you: I go to prepare a place for you; and if I go to prepare a place for you, I will come again and receive you to myſelf, that where I am, there ye may be alſo.</hi>
+            </p>
+            <p>This inſtructed me, and hinted to me my atheiſm, and unbelief, as the proper root of ſuch thoughts as I had been tam<g ref="char:EOLhyphen"/>pering with; it thereupon humbled me, and drew me nearer to Chriſt.</p>
+            <p>One thing I may not here omit, being a very confiderable note for practical di<g ref="char:EOLhyphen"/>rection. Upon a certain day, about this time, the <hi>Lords Supper</hi> was to he c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lehra<g ref="char:EOLhyphen"/>ted by the Church <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Weſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er,</hi> into the fellowſhip of which, I had through great mercy obtained <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dmiſſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n. In the morn<g ref="char:EOLhyphen"/>ing before I went, I had a great indiſp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dneſs to go, and would <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve been glad of any ſlight hinderance, yet (<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up by confi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ring <hi>Heb. 10. 25. Forſake, <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the aſſembling of your ſelves <gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ther, as the man<g ref="char:EOLhyphen"/>ner of ſome is)</hi> I went; when I came the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, Mr. <hi>Roe</hi> (the Paſtor of that Church) was carrying on a diſcourſe, the ſubject of
+<pb n="51" facs="tcp:65666:34"/> which was, <hi>Sanctified Affections;</hi> in the proſecution of which, before and after that day, he ſpent much time: That which he ſpake then, was by the preſence of God, much ſet upon my heart, notwithſtanding the dead frame I came thither in. Sermon being ended, I went to the place where the Church met to break Bread, that I might likewiſe partake of that Inſtitution: There God met me with greater enlarge<g ref="char:EOLhyphen"/>ment of heart, in the ſenſe of his rich Grace ſet forth in that Ordinance, than to my remembrance I ever had before or ſince: It put me into a deep mourn<g ref="char:EOLhyphen"/>ing over a ſinful heart, and made me preſs after a more clear manifeſtation, of my be<g ref="char:EOLhyphen"/>ing at peace with him, by a holy conver<g ref="char:EOLhyphen"/>ſation: To this God gave in a promiſe containing both, <hi>Micah. 7. 19. He will ſubdue our iniquities, and thou wilt caſt all our ſins into the depth of the Sea.</hi> To bury ſin in the ſatisfaction made for it, and to ſubdue it, in reſpect of the reign of it, are the higheſt attainments on this ſide Hea<g ref="char:EOLhyphen"/>ven, where the remains of it will in like manner be removed.</p>
+            <p>That perfection which ſome pretend unto, is to common obſervation an ima<g ref="char:EOLhyphen"/>ginary dream: For while their Converſa<g ref="char:EOLhyphen"/>tions
+<pb n="52" facs="tcp:65666:35"/> are compared to that rule, the leaſt tranſgreſtion whereof is ſin; their imper<g ref="char:EOLhyphen"/>fections are ſo far from being concealed, as indeed they appear to be worſe ſpots, than the ſpots of God's Children.</p>
+            <p>Theſe being the moſt remarkable things which I remember did attend my being at <hi>Whitehal,</hi> I think it my duty to ſay ſome<g ref="char:EOLhyphen"/>thing of the mind I brought thither, and the change wrought in it there.</p>
+            <p>My birth and education was from thoſe who had dependance upon the Court of the late King, whoſe intereſt was ſo much woven into his, that in the late miſerable Wars they did adhere to him, to the great reducement of their Families, of which I being one, had a deep ſhare of ſuffering, and was accordingly imbittered againſt the inſtruments of it. I came not only out of the Country with this mind, but I brought it into his Family who had been a chief inſtrument of thoſe great Changes; againſt whoſe perſon (partly upon the for<g ref="char:EOLhyphen"/>mer reaſon, but principally from the ſto<g ref="char:EOLhyphen"/>ries I had heard of him) I had ſufficient prejudice. Now, that I may right him for the wrong I have done him in my thoughts (and it may be in my words too, ſome<g ref="char:EOLhyphen"/>times) I cannot ſo comfortably leave the
+<pb n="53" facs="tcp:65666:35"/> world without declaring what I found from him; wherein, if I could ſufficient<g ref="char:EOLhyphen"/>ly demonſtrate how little I am by aſſed by carnal worldly motives, that which I ſay, would gain the greater acceptance: That many of his, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions had, that either for the matter of them, opr maner in which, or end to which they were done, as to pro<g ref="char:EOLhyphen"/>voke God to pour contempt and ſuffering upon him and his in the view of the world ſince his death, and that moſt juſtly (for God doth nothing unjuſtly) is moſt evi<g ref="char:EOLhyphen"/>dert: teaching us to tremble before him alwayes; For <hi>even our God is a conſuming fire.</hi> Yet nothwithſtanding, I ſhould bury the truth in unrighteouſneſs, did I not from many obſervations, declare that he was (in my opinion) a man of greater Faith and Holineſs, than is almoſt to be found among the ſons of men: One, who had the clear underſtanding of Goſpel-truth, and lived in the power of it (the times of his ſurprizal in ſtrong temptation excep<g ref="char:EOLhyphen"/>ted,) One to whom Chriſt was dear, and every thing that ſeemed to have any thing of Chriſt ſtampt on it, without diſtincti<g ref="char:EOLhyphen"/>ons of this or that Sect. Whence I have heard knowing men ſay (and I believe truly) That he was apt to indulge preten<g ref="char:EOLhyphen"/>ders
+<pb n="54" facs="tcp:65666:36"/> to Holineſs, to the apparent hurt of his outward intereſt, as fearful to beat down any thing which God would have ſtand: And hath been heard to ſay, That there were few Sects among Chriſtians, in which ſomething of God was not to be found, which muſt not be deſtroyed. How ſome of them did requite him, I doubt not but they have had leiſure ſince to con<g ref="char:EOLhyphen"/>ſider, or will have.</p>
+            <p>And as to the <hi>Cauſe</hi> which he was ſo great a pa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on of, it was <hi>Publick Reformation;</hi> which when the means to effect it, is vin<g ref="char:EOLhyphen"/>dicated from thoſe juſt ſcandals which Profeſſors of Religion have brought upon it, I doubt no more of the reſurrection of it, than of mine own at the laſt day: And when wicked men have finiſhed their tranſgreſſions, and fill'd their meaſures, they, ſhall receive the reward of them. God will judge me very ſhortly as to what I ſay herein; and hath judged ſome al<g ref="char:EOLhyphen"/>ready, of whom I ſpeak; and will judge the reſt before another Age be paſt, and that will not be long: to Him therefore, and his righteous Judgement, I leave it.</p>
+            <p>That which I intend to conclude with<g ref="char:EOLhyphen"/>al, as to my living, at <hi>Whitehol,</hi> is, the change of my practice in Church-matters.</p>
+            <pb n="55" facs="tcp:65666:36"/>
+            <p>The form I was bred under, was <hi>Epiſ<g ref="char:EOLhyphen"/>copal;</hi> againſt which I had none other mind, than all perſons have againſt that wherein they are educated; and of the contrary to which they underſtand no<g ref="char:EOLhyphen"/>thing. Tht Society I couverſed with at my firſt coming to <hi>London,</hi> was, <hi>Presby<g ref="char:EOLhyphen"/>terians.</hi> That which I cloſed with after I came to <hi>Weſtminſter,</hi> was <hi>Congregational;</hi> or <hi>Independent;</hi> for ſo they have of late been diſtinguiſhed. The ſr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l mind of man being through ignorance mutable, it is no eaſie thing to attain to ſtability, nor can it be till Truth fixes it. I think thoſe fall under the deſerved character of wa<g ref="char:EOLhyphen"/>vering minded men, who go forward in the wayes of truth, and then return back again, that retreat is diſhonourable: For it was not <hi>Pauls</hi> errour, to <hi>change his practice upon Converſion;</hi> though I have heard that the <hi>Turks</hi> charge him with a crime in it; and to be ſure the <hi>Jews</hi> did: But with the bewitched <hi>Galatians</hi> to begin in the ſpirit, and to ſeek perfection by the works of the Law, is dangerous Apoſtacy.</p>
+            <p>To paſs from <hi>Epiſcopacy</hi> to <hi>Presbytery,</hi> thence to <hi>Independency,</hi> and then (for outward advantage) to return back again, (yea, though they went but the firſt ſtep)
+<pb n="56" facs="tcp:65666:37"/> will certainly merit no better name, than <hi>Time-ſerving.</hi> But not to be too ready in condemning others; that which I have to do, is, to aſſign the reaſon of mine own practice: It is little of the ſpirit of diſ<g ref="char:EOLhyphen"/>cerning I pretend to; yet, if I have any of the Spirit of Chriſt, and hope of eter<g ref="char:EOLhyphen"/>nal Happineſs, I muſt not quit all claim to it: From that little of it which I have, I do profeſs, I have been acquainted with very Holy Men of all the fore-named dif<g ref="char:EOLhyphen"/>ferent Perſwaſions, and have not been a little ſcandalized at the behaviour of ſome of them towards their diſſenting Brethren; who have little practiſed that Goſpel Grace, <hi>Forbearance,</hi> as clearly command<g ref="char:EOLhyphen"/>ed in the Word as any other dutie. It is no new or ſtrange thing, that there ſhould be found the eff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts of enmity be<g ref="char:EOLhyphen"/>tween the Seed of the Woman, and the ſeed of the Serpent: But that Chriſt ſhould be devided, is neither lawful, comfortable nor comely.</p>
+            <p>And now to the reaſon why I ſate down with <hi>Independants</hi> in ſpiritual Communi<g ref="char:EOLhyphen"/>on, it was, Becauſe I found them agree<g ref="char:EOLhyphen"/>ing with the other two in all fundamental Doctrines belonging to Salvation: and (at leaſt as I think) exerciſing the power
+<pb n="57" facs="tcp:65666:37"/> of thoſe principles more in practice.</p>
+            <p>I obſerved, that in their Doctrine they ſeparated betwixt the precious and the vile, betwixt regenerate and unregene<g ref="char:EOLhyphen"/>rate, by the ſame rules and notes of di<g ref="char:EOLhyphen"/>ſtinction.</p>
+            <p>Even ſome Epiſcopal men did ſo, as <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi> and <hi>Reynolds,</hi> with ſome few more; and the Presbyterians generally went that way: but then in practice they call them <hi>holy,</hi> whom in Doctrine they pronounce <hi>Prophane,</hi> admitting them to thoſe Goſpel<g ref="char:EOLhyphen"/>inſtitutions, which are the peculiar privi<g ref="char:EOLhyphen"/>ledges of the Saints.</p>
+            <p>And to juſtifie what they do, they ſetch preſidents from <hi>Corinth,</hi> and other Chur<g ref="char:EOLhyphen"/>ches in the Apoſtles times; nay, they travel further, even to the old Church of the <hi>Jews,</hi> to ſhew how corrupt a Church may be, and yet retain the eſ<g ref="char:EOLhyphen"/>ſence of a Church; when ſuch a ſimple woman as I, am apt to think, their time would be better ſpent in <hi>purging out the old leaven, that the body might be a new lump,</hi> 1 Cor. 5. 7.</p>
+            <p>This at an adventure made me cleave to them, in whom I ſourd moſt of that ſpirit, which from the beginning of my
+<pb n="58" facs="tcp:65666:38"/> Converſion, had acted and comforted me.</p>
+            <p>And let it ſuffice, that I can ſay no more for my ſelf herein, becauſe I am not able to try hard Arguments, or untie knotty Controverſies; plenty of which I am told the differences betwixt them have afforded. Nay, I muſt conſeſs, I yet underſtand not what thoſe things are, that give them their different deno<g ref="char:EOLhyphen"/>minations, though I have heard it in de<g ref="char:EOLhyphen"/>bates often; ſo little impreſſion did it leave upon me.</p>
+            <p>This only I find, that <hi>Epiſcopecy</hi> (in its laſt reſtitution) come<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> attended with ſuch prophaneſs, as the very fight of it hath made me rejoyce in the hopes of being delivered by death, from beholding thoſe judgements which I fear will fall upon ſo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of my deareſt relations, for being too near thoſe things.</p>
+            <p>And now upon the ſad conſideration of what is herein written, Oh! you my unregenerate unacquaintance (and ſuch of my relations as are in that condition) let me addreſs ſome Queſtions.</p>
+            <pb n="59" facs="tcp:65666:38"/>
+            <p>
+               <hi>Tell me honeſtly, what think you of this ſtory?</hi>
+            </p>
+            <p>The Narrative I have made of God's dealing with me, I ſolemnly profeſs to be in every tittle true, but not by much all that which might have been ſaid; I have cauſed it to be written, in that which I account my laſt ſickneſs, with none other intent, but to give God the glory of his dealing with me, and bring you to happineſs the like way.</p>
+            <p>
+               <hi>Now, can you think that this great work was from Satan?</hi>
+            </p>
+            <p>It is true, Satan tempted and troubled me in my childhood, but I was brought to Chriſt by it.</p>
+            <p>
+               <hi>Did Satan intend that, think you?</hi>
+            </p>
+            <p>
+               <hi>And hath Chriſt in requital of Satans kindneſs therein, returned me back as a pre<g ref="char:EOLhyphen"/>ſent to him?</hi>
+            </p>
+            <p>Judge, I pray you, in your moſt retired thoughts; for I appeal to your Conſci<g ref="char:EOLhyphen"/>ences from your wild diſcourſes; wherein out of your natural enmity to Converſi<g ref="char:EOLhyphen"/>on, you call it <hi>Phrenzy,</hi> and to a holy converſation, which gaines no better ti<g ref="char:EOLhyphen"/>tle from you than <hi>Phanatiſm,</hi> or (which is worſe) <hi>Sedition</hi> and <hi>Rebellion;</hi> and
+<pb n="60" facs="tcp:65666:39"/> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he words wherein it is held out, <hi>Cant<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g.</hi>
+            </p>
+            <p>I was known to you from my youth, and I appeal to that knowledge yet, without vain glory; was not my whole carriage as free from offence, as the generality of youth is, if not more free and gaining?</p>
+            <p>
+               <hi>How comes it then that ſin ſhould be made thus burthenſome to me, when you ſeem to bear it ſo lightly?</hi>
+            </p>
+            <p>My Soul hath oft mourned for you in ſecret, God knows; and I was encoura<g ref="char:EOLhyphen"/>ged thereto, becauſe, for ſome God heard me, and delivered them out of their deſ<g ref="char:EOLhyphen"/>perate ſtate.</p>
+            <p>Original ſin hath dreadfully deſaced the Principles of Truth, and darkened the Beams of Light, that once were in mans heart; yet not ſo totally, but that I dare appeal to the remnants of them in you, whether you do not think this that hath been ſaid, is the work of God, bring<g ref="char:EOLhyphen"/>ing home a loſt creature, and leading a blind ſinner in the ſtreight way to Life, to which your ſelves are ſtrangers? for to ſuch I ſpeak, knowing aſſuredly that the generation of the Juſt, do eccho to all that I have ſaid<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> And that I was raiſed from the dead by that Power which Chriſt
+<pb n="61" facs="tcp:65666:39"/> himſelf was raiſed, <hi>Epheſ.</hi> 1. 19, 20. and am kept by no leſs Power to this very day.</p>
+            <p>And if ſo, then, as <hi>Daniel</hi> ſaid to <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar, Let my counſel accepted of you;</hi> Break off your ſins by Repentance; your unbelief by Faith; your ſuperſtiti<g ref="char:EOLhyphen"/>on ignorance and prophaneſs, by Puri<g ref="char:EOLhyphen"/>ty, Integrity, and a ſound underſtanding of the Wayes of God, in his Worſhip.</p>
+            <p>You little think how o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t I have ſought God for you herein; wherein, if I obtain anſwer, I ſhall at length meet yo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as co<g ref="char:EOLhyphen"/>heirs of the Reſt purchaſed by Chriſt: However the election of God ſhall ſtand, and he knoweth who are his.</p>
+            <p>And let what I have herein declared, remain upon record, as a witneſs of what God hath done for ſome, and particular<g ref="char:EOLhyphen"/>ly for me, againſt thoſe who in deſpite of all kindes of teaching, whether by word or example, do violently purſue their luſts, to their eternal and moſt juſt deſtruction.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
